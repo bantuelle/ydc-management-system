@@ -6,12 +6,10 @@ This project includes 5 actors (users) collectively, I was primarily responsible
 ##Youth Development Centre Management System (Third Year Project)
 
 ## Documentation
--[Storyboard - Regional Coordinator]
-(https://drive.google.com/file/d/1TEgmawmjkXBAg0eInmLCGKUxUvk5gkks/view?usp=sharing)
+-[Storyboard - Regional Coordinator](https://drive.google.com/file/d/1TEgmawmjkXBAg0eInmLCGKUxUvk5gkks/view?usp=sharing)
 
 ## Screenshots
--[Screenshots taken from Web Application - Regional Coordinator logged in ]
-(https://drive.google.com/drive/folders/1CkXRW-A47VzyAGh0NtLeafF6bD6bhUc6?usp=sharing)
+-[Screenshots taken from Web Application - Regional Coordinator logged in ](https://drive.google.com/drive/folders/1CkXRW-A47VzyAGh0NtLeafF6bD6bhUc6?usp=sharing)
 
 ## Technology Stack
 <p>Frontend - Bootstrap</p>
